@@ -3,13 +3,11 @@
 
 Stage 1: Program the traffic light, this includes setting up the correct wire for the traffic light using jumper wire, button, switch, buzzer and resistor. 
 
-Stage 2: Write a program using python in raspberry pi to program traffic light duration when to turn on and off.  
+Stage 2: Write a program using python in raspberry pi to program traffic light duration when to turn on and off. Write a program to import buttons, buzzers and traffic lights using GPIO Zero.   
 
-Stage 3: Write a program to import buttons, buzzers and traffic lights using GPIO Zero. 
+Stage 3: Test the program to see if the smart traffic light system works. 
 
-Stage 4: Test the program to see if the smart traffic light system works. 
 
- 
 Parts Needed For the Project.
 
 Button                          
