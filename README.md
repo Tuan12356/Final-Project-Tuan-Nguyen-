@@ -10,7 +10,7 @@ Stage 3: Test the program to see if the smart traffic light system works.
 
 Parts Needed For the Project.
 
-Button                          
+1 Button                          
 
 1 Red LED                        
 
