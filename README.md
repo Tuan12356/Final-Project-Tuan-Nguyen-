@@ -10,8 +10,7 @@ Stage 3: Write a program to import buttons, buzzers and traffic lights using GPI
 Stage 4: Test the program to see if the smart traffic light system works. 
 
  
-
-The part for this project will use a  
+Parts Needed For the Project.
 
 Button                          
 
@@ -22,3 +21,5 @@ Yellow LED
 Green LED                     
 
 Buzzer               
+
+Resistor 330 ohm                            
