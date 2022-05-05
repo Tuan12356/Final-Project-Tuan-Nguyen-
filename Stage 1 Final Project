@@ -1,10 +1,3 @@
 /usr/bin/python3
 from gpiozero import LED
 
-button = Button()
-
-while True:
-  button.wait_for_press()
-  print('Pressed')
-  button.wait_for_release()
-  print('Released')
