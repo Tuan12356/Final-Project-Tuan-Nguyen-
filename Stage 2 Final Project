@@ -1,1 +1,12 @@
+/usr/bin/python3
+from gpiozero import Button, LED
 
+button = Button()
+led = LED()
+
+while True:
+  led.blink()
+  button.wait_for_press()
+  led.off()
+  button.wait_for_release()
+  
