@@ -1,7 +1,7 @@
 /usr/bin/python3
 from gpiozero import Button
 
-button = Button(21)
+button = Button()
 
 while True:
   button.wait_for_press()
