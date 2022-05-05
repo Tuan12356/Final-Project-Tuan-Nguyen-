@@ -1,5 +1,5 @@
 /usr/bin/python3
-from gpiozero import Button, LED
+from gpiozero import Button, Button
 
 button = Button()
 led = LED()
