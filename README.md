@@ -14,5 +14,5 @@ Parts Needed For the Project.
 All king of jumper leads 
 1x button
 3x LEDs (Red, Green, and Yellow)
-3x 330 ohm Register
+3x 330 ohm Resister
 1x Buzzer
