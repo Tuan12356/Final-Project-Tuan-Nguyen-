@@ -1,17 +1,23 @@
 /usr/bin/python3
-from gpiozero import LED
-from gpiozero import LED
 
-from gpiozero import LED
+from gpiozero import  LED    
 from time import sleep
 
-red = LED(22)
-amber = LED(27)
-green = LED(17)
+green = LED(16)
+yellow = LED(17)
+red = LED(18)
 
-red.on()
-sleep(1)
-amber.on()
-sleep(1)
-green.on()
-sleep(1)
+while True:
+    green.on()
+    sleep(15)
+    green.off()
+        
+    yellow.on()
+    sleep(4)
+    yellow.off()
+        
+    red.on()
+    sleep(15)
+    red.off()
+    
+    sleep(30)
