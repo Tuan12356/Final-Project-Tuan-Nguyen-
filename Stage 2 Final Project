@@ -12,7 +12,7 @@ buzzer = Buzzer(20)
 while True:
     buzzer.on()
     green.on()
-    sleep(15)
+    sleep(10)
     green.off()
     buzzer.off()
         
@@ -21,8 +21,8 @@ while True:
     yellow.off()
         
     red.on()
-    sleep(15)
+    sleep(10)
     red.off()
     
-    sleep(30)
+   
 
