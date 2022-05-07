@@ -1,12 +1,28 @@
 /usr/bin/python3
-from gpiozero import Button, Button
+from gpiozero import  LED
+from gpiozero import  Buzzer
+from time import sleep
 
-button = Button()
-led = LED()
+green = LED(16)
+yellow = LED(17)
+red = LED(18)
+
+buzzer = Buzzer(20)
 
 while True:
-  led.blink()
-  button.wait_for_press()
-  led.off()
-  button.wait_for_release()
-  
+    buzzer.on()
+    green.on()
+    sleep(15)
+    green.off()
+    buzzer.off()
+        
+    yellow.on()
+    sleep(4)
+    yellow.off()
+        
+    red.on()
+    sleep(15)
+    red.off()
+    
+    sleep(30)
+
