@@ -1,5 +1,6 @@
 # Final Project Tuan Nguyen
   Introduction
+  
   The purpose of this device is to create traffic lights using a raspberry pi. This is a device when the button is pressed the lights are going to turn on like a traffic light on the road. The light turns on from red to yellow and finally green. 
 
 Stage 1: Gather all the require parts in order to setup the traffic light. This  includes setting up the correct wire for the traffic light using jumper wire, button, switch, buzzer, and resistor. 
