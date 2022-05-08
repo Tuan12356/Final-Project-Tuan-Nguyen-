@@ -1,5 +1,5 @@
-# Final Project Tuan Nguyen
-  Introduction
+# Final Project Traffic Lights Tuan Nguyen
+                                                      Introduction
   
   The purpose of this device is to create traffic lights using a raspberry pi. This is a device when the button is pressed the lights are going to turn on like a traffic light on the road. The light turns on from red to yellow and finally green. 
 
