@@ -14,9 +14,6 @@ Parts Needed for the Project.
 1 Raspberry pi model 4B
 1 Breadboard
 7 jumper wires Female to Male 
-1 Female to Male on E9
-1 Female to Male on E15
-1 Female to Male on E21
 1 Button
 1 Green LED
 1 Red LED
